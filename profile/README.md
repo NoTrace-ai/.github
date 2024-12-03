@@ -29,7 +29,7 @@ We welcome contributions from the privacy and security community! Check out our 
 
 - [Website](https://notrace.ai)
 - [Twitter](https://twitter.com/NoTrace_ai)
-- [LinkedIn](https://www.linkedin.com/company/105055707/admin/dashboard/)
+- [LinkedIn](https://www.linkedin.com/company/105055707)
 
 ## 📄 License
 
