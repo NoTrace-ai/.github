@@ -20,11 +20,7 @@ At NoTrace, we believe privacy is a fundamental right. Our mission is to help in
 - **Dark Web Scanning**: Advanced protection against identity theft
 - **Family Protection**: Extend privacy protection to your loved ones
 - **Privacy Risk Assessment**: Comprehensive analysis of your digital footprint
-
-## 🤝 Contributing
-
-We welcome contributions from the privacy and security community! Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
+  
 ## 📱 Connect With Us
 
 - [Website](https://notrace.ai)
